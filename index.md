@@ -16,5 +16,6 @@ Outside of work, I enjoy hiking and birding (especially in the mountains), playi
 More detail can be found in my [CV](/CV.pdf) (last update June 2023).
 
 
-
+<p align="center">
 <img src="https://victorcazalis.github.io/logo.png"  align="center" width="700">
+</p>
