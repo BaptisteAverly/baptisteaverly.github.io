@@ -17,4 +17,4 @@ More detail can be found in my [CV](/CV.pdf) (last update June 2023).
 
 
 
-<img src="https://victorcazalis.github.io/Bouirex2.JPG"  align="center" width="700">
+<img src="https://victorcazalis.github.io/logo.png"  align="center" width="700">
