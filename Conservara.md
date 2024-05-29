@@ -11,4 +11,6 @@ With Conservara, I imagine working for three main groups of stakeholders, as lon
 
 You can see what I can offer in practice in [How can I help you?](http://conservara.fr/HowCanIHelp)
 
+<p align="center">
 <img src="https://victorcazalis.github.io/logo.png"  align="center" width="600">
+</p>
