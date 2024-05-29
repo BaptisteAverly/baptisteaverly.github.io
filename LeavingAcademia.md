@@ -12,4 +12,4 @@ This made me reconsider what could be my role in conservation. Considering that 
 
 <p align="center">
 <img src="https://victorcazalis.github.io/Bouirex2.JPG"  align="center" width="900">
-</p>p>
+</p>
