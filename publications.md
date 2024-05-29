@@ -5,6 +5,10 @@
 
 ### Peer-reviewed articles
 
+* **Cazalis V.**, Di Marco M., Zizka A., Butchart S.H.M., González-Suárez M., Böhm M., Bachman S.P., Hoffmann M., Rosati I., De Leo F., Jung M., Benítez-López A., Clausnitzer V., Cardoso P., Brooks T.M., Mancini G., Lucas P.M., Young B.E., Akcakaya R., Schipper A.M., Hilton-Taylor C., Pacifici M., Meyer C., Santini L. (2024). Accelerating and standardising IUCN Red List assessments with sRedList. Under review.
+
+* Mancini G., Santini L., **Cazalis V.**, Ficetola F., Meiri S., Roll U., Silvestri S., Pincheira-Donoso D., & Di Marco M. (2024). Generation length of the world’s amphibians and reptiles. [*Preprint*]([https://doi.org/10.1111/cobi.14227](https://www.biorxiv.org/content/10.1101/2024.05.23.595540v1))
+
 * Lucas P.M., Di Marco M., **Cazalis V.**, Luedtke J., Neam K., Brown M.H., Langhammer P.F., Mancini G., Santini L. (*Under review*). Testing the predictive performance of comparative extinction risk models to support the global amphibian assessment. [*Preprint*](https://www.biorxiv.org/content/10.1101/2023.02.08.526823v1)
 
 * Henry E.G., Santini L., Butchart S., Gonzalez-Suarez M., Lucas P.M., Benitez-Lopez A., Mancini G., Jung M., Cardoso P., Zizka A., Meyer C., Akcakaya H.R., Berryman A., **Cazalis V.**, Di Marco, M. (2023). Modelling the probability of meeting IUCN Red List criteria to support reassessments. *Global Change Biology* [DOI: 10.1101/2023.06.08.544254](https://onlinelibrary.wiley.com/doi/10.1111/gcb.17119)
