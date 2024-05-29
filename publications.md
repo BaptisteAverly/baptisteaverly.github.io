@@ -47,4 +47,7 @@
 
 * Cazalis, V., Devoucoux, P., Besnard, A. (2016). Analyse de la sélection de l'habitat chez l'Oedicnème criard (Burhinus oedicnemus) dans le contexte de la construction de la ligne TGV en Costières nîmoises. Rapport adressé à la DREAL, Montpellier. 29p.
 
+
+<p align="center">
 <img src="https://victorcazalis.github.io/LongTailedTit2.jpg"  align="center" width="700">
+</p>
