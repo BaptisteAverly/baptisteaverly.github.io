@@ -14,8 +14,8 @@ Press release from [INEE](https://www.eurekalert.org/pub_releases/2020-09/cffa-c
 ### Cazalis and Prévot 2019:
 Press release from [CNRS](http://www.cnrs.fr/sites/default/files/press_info/2019-04/CP_ParcNaturel_ENG_VF_0.pdf) (EN); Press articles in [20 minutes](https://www.20minutes.fr/planete/2503579-20190425-environnement-plus-ecolo-quand-habite-pres-parc-naturel-france) and [La Croix](https://www.la-croix.com/Sciences-et-ethique/Environnement/Francais-vivant-pres-dun-parc-naturel-sont-ecolos-2019-04-25-1201017756?from_univers=lacroix) (FR); Radio interviews in [RTS1 - Prise de Terre](https://www.rts.ch/play/radio/prise-de-terre/audio/parc-naturel-et-conscience-ecologique?id=10743295) and [Radio Campus - Stimuli](https://www.mixcloud.com/guillaumebagnolini/de-leffet-des-parcs-naturels-sur-nos-comportements/) (FR)
 
-### Comments on other articles
-I am sometimes solicited to comment on articles written by others, for instance in [Le Monde](https://www.lemonde.fr/planete/article/2024/06/25/proteger-1-2-de-la-surface-de-la-terre-permettrait-d-eloigner-le-risque-d-une-sixieme-extinction_6243602_3244.html), or [Libération](https://www.liberation.fr/environnement/biodiversite/proteger-12-des-terres-du-monde-pourrait-eviter-les-extinctions-despeces-les-plus-imminentes-20240625_T53I57MOFNBMBGUZDA6BALPBSY/).
+### Commenting conservation news
+I am sometimes solicited to comment on conservation news, for instance in [Le Monde](https://www.lemonde.fr/planete/article/2024/06/25/proteger-1-2-de-la-surface-de-la-terre-permettrait-d-eloigner-le-risque-d-une-sixieme-extinction_6243602_3244.html), or [Libération](https://www.liberation.fr/environnement/biodiversite/proteger-12-des-terres-du-monde-pourrait-eviter-les-extinctions-despeces-les-plus-imminentes-20240625_T53I57MOFNBMBGUZDA6BALPBSY/).
 
 
 <p align="center">
