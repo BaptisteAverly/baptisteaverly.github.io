@@ -29,7 +29,7 @@ It is a very powerful tool when you need to interact a lot with your data or whe
 
 > You are coordinating a conservation project and want every stakeholder to access and explore the project data → I can create an online app to visualise your different data products (maps, graphics, tables...) and create adequate documentation (text, cheatsheet, video tutorial) for your users.
 
-> You are coordinating a team of fieldworkers and need an online portal for them to enter their data interactively (e.g., enter point data directly from an interactive map) or to annotate data (e.g., assess local conservation status based on graphics) → I can create an online app that your team can use to enter data when they are coming back from fieldwork and create a robust database.
+> You need an online portal to run some conservation analyses (eg to assess the conservation status of a given habitat based on some measurements) → I can create a Shiny app that will ask users to enter some data (manually or uploading a spreadsheet), run analyses, and return results through plots and tables that can be downloaded.
 
 ## Maps and graphics
 Combining R and Inkscape, I create maps and graphics to display results in a pretty and informative way. Here are a few examples of graphical outputs from my research projects:
