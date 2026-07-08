@@ -17,6 +17,8 @@
 
 <div class="clear"></div>
 
+<img class="right-img" src="https://baptisteaverly.github.io/img/Figure_1.png">
+
 **Data analysis:**
 
-
+<div class="clear"></div>
