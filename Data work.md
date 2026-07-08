@@ -1,35 +1,13 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  .container{
-    display: flex;
-  }
-</style>
-</head>
 
-<body>
   
 ## What I can do behind a screen
 
-<div class="container">
   <img style="padding: 0 15px; " src="https://baptisteaverly.github.io/img/IMG_12882.JPG"  width="400">
-  <p><b>Data processing and management: </b> blaballehoighhgr</p>
-</div>
+  *Data processing and management:* blaballehoighhgr
 
-<div class="container">
-  <p><b>Interactive interfaces: </b> uioghiougoufg</p>
+  *Interactive interfaces:* uioghiougoufg
   <img style="padding: 0 15px; " src="https://baptisteaverly.github.io/img/interactive_network.png"  width="400">
-</div>
 
-<p>
-
-<b>Data analysis: </b>
-  
-</p>
-
-</body>
-
-</html>
+*Data analysis:*
 
 
