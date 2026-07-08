@@ -3,9 +3,9 @@
 
 
 
-<img class="left-img" src="https://baptisteaverly.github.io/img/IMG_12882.JPG" >
+<img class="left-img" src="https://baptisteaverly.github.io/img/DSC_1407.JPG" >
 
-**Creation of protocols:** blaballehoighhgr
+**Field preparation:** blaballehoighhgr
 
 <div class="clear"></div>
 
@@ -16,7 +16,7 @@
 
 <div class="clear"></div>
 
-<img class="left-img" src="https://baptisteaverly.github.io/img/DSC_1407.JPG">
+<img class="left-img" src="https://baptisteaverly.github.io/img/bats.jpg">
 
 **Outreach :** 
 
