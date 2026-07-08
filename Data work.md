@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-
-
-<style>
+<html>
+  
+  <style>
   .container{
     display: flex;
   }
@@ -25,3 +25,7 @@
 <b>Data analysis: </b>
   
 </p>
+
+</html>
+
+
