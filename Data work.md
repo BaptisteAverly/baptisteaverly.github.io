@@ -2,7 +2,7 @@
 
 
 <p>
-<img style="padding: 0 15px; float: right;" src="https://baptisteaverly.github.io/img/IMG_12882.jpg"  align="right" width="400">
+<img style="padding: 0 15px; float: right;" src="https://baptisteaverly.github.io/img/IMG_12882.JPG"  align="right" width="400">
 <b>Data processing and management: </b> blaballehoighhgr
 
 </p>
