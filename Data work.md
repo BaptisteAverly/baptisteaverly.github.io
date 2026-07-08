@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html>
   
-  <style>
+<style>
   .container{
     display: flex;
   }
-  
 </style>
 
 ## What I can do behind a screen
