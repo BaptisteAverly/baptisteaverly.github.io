@@ -10,7 +10,7 @@
 <div class="clear"></div>
 
 
-<img class="right-img" src="https://baptisteaverly.github.io/img/collar.png">
+<img class="right-img" src="https://baptisteaverly.github.io/img/collar.JPG">
 
 **Data collection :** uioghiougoufg
 
