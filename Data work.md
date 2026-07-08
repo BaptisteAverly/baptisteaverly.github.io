@@ -11,7 +11,7 @@
 <div class="clear"></div>
 
 
-<img class="right-img" src="https://baptisteaverly.github.io/img/interactive_network.png">
+<img class="right-img" src="https://baptisteaverly.github.io/img/network_lowRes.png">
 
 **Interactive interfaces:** uioghiougoufg
 
