@@ -2,11 +2,19 @@
   
 ## What I can do behind a screen
 
+
+<img style="float:left; margin:0 20px 20px 0; width:250px;" src="https://baptisteaverly.github.io/img/IMG_12882.JPG" >
+
 **Data processing and management:** blaballehoighhgr
-<img style="padding: 0 15px; " src="https://baptisteaverly.github.io/img/IMG_12882.JPG"  width="400">
+
+<div style="clear:both;"></div>
+
+
+<img style="float: right; margin:0 20px 20px 0; width:250px;" src="https://baptisteaverly.github.io/img/interactive_network.png">
 
 **Interactive interfaces:** uioghiougoufg
-<img style="padding: 0 15px; " src="https://baptisteaverly.github.io/img/interactive_network.png"  width="400">
+
+<div style="clear:both;"></div>
 
 **Data analysis:**
 
