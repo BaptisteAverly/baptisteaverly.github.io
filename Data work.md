@@ -12,12 +12,9 @@
   <p><b>Data processing and management: </b> blaballehoighhgr</p>
 </div>
 
-<p>
 <div class="container">
-  <b>Interactive interfaces: </b> uioghiougoufg
+  <p><b>Interactive interfaces: </b> uioghiougoufg</p>
   <img style="padding: 0 15px; " src="https://baptisteaverly.github.io/img/interactive_network.png"  width="400">
-
-</p>
 </div>
 
 <p>
