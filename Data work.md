@@ -8,6 +8,8 @@
 </style>
 </head>
 
+<body>
+  
 ## What I can do behind a screen
 
 <div class="container">
@@ -25,6 +27,8 @@
 <b>Data analysis: </b>
   
 </p>
+
+</body>
 
 </html>
 
