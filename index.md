@@ -1,7 +1,7 @@
 ## About
 [Google Scholar](https://scholar.google.com/citations?user=t42adKwAAAAJ&hl=fr&oi=sra)  \|  [ORCID](https://orcid.org/0000-0003-0850-883X)  \|  [Publons](https://publons.com/researcher/1605670/victor-cazalis/)
 
-<img style="padding: 0 15px; float: right;" src="https://baptisteaverly.github.io/img/IMG_12882.JPG"  align="right" width="220">
+<img style="padding: 0 15px; float: right;" src="https://baptisteaverly.github.io/img/IMG_12882.JPG"  align="right" width="300">
 
 I am a biodiversity conservation scientist, with particular interests in international conservation, conservation effectiveness, IUCN Red List and birds. After five years in academia, I decided to step aside (see [Leaving Academia](http://conservara.fr/LeavingAcademia)) and to try supporting applied projects from NGOs, researchers, or media to make conservation science methods and outputs more accessible ([Conservara](http://conservara.fr/Conservara)).
 
