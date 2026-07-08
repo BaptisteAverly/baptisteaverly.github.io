@@ -2,7 +2,7 @@
 
 [French CV]("https://baptisteaverly.github.io/docs/Baptiste Averly - CV.pdf")
 
-<img style="padding: 0 15px; float: right;" src="https://baptisteaverly.github.io/img/IMG-20260708-WA00012-Photoroom.jpg"  align="right" width="400">
+<img style="padding: 0 15px; float: right;" src="https://baptisteaverly.github.io/img/IMG-20260708-WA00012-Photoroom.png"  align="right" width="400">
 
 I am a biodiversity conservation scientist, with particular interests in international conservation, conservation effectiveness, IUCN Red List and birds. After five years in academia, I decided to step aside (see [Leaving Academia](http://conservara.fr/LeavingAcademia)) and to try supporting applied projects from NGOs, researchers, or media to make conservation science methods and outputs more accessible ([Conservara](http://conservara.fr/Conservara)).
 
