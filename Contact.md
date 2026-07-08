@@ -6,7 +6,7 @@
 baptiste.averly [at] gmail.com
 
 <br>
-09200 Moulis
+09200 Moulis - France
 
 <br>
 Feel free to get in touch!
