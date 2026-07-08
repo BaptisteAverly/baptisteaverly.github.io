@@ -1,6 +1,6 @@
 ## Contact information
 
-<img style="padding: 0 15px; float: right;" src="https://baptisteaverly.github.io/img/cos-35_small.jpg" align="right"  width="700">
+<img style="padding: 0 15px; float: right;" src="https://baptisteaverly.github.io/img/cos-35_small.jpg" align="right"  width="600">
 
 ### Email: 
 baptiste.averly [at] gmail.com
@@ -10,5 +10,5 @@ baptiste.averly [at] gmail.com
 
 <br>
 Feel free to get in touch!
-<br><br><br>
+<br><br><br> <br><br><br>
 
