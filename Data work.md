@@ -21,7 +21,7 @@ Once the data is clean and organized, it can be very helpful to interact with it
 - streamlining the run of simulations or models for non-experienced users
 - showcasing you results to a specialized or general audience through an engaging and interactive tool
 
-[Here] you can see an example of a Shiny application I co-developped for the french Department of Environment. 
+[Here](https://www.eoliennesenmer.fr/ressources/etudes-techniques/appli-bird-dynamic) you can see an example of a Shiny application I co-developped for the french Department of Environment. 
 The picture on the right shows a capture of an interactive network application I developped for *Bureau et. al. Inuvialuit Knowledge of Peary caribou habitat through storytelling, fuzzy cognitive mapping, and an interactive network (In review).* (not accessible for confidentiality issues).
 
 <div class="clear"></div>
