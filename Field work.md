@@ -5,10 +5,10 @@
 <img class="left-img" src="https://baptisteaverly.github.io/img/DSC_1407.JPG" >
 
 **Before the field**  
-Good preparation can prevent many hurdles further down the road. Because I have been through the hurdles, I can assist during the early stages of your project to make sure the data collection phase goes as smoothly as possible. The diverse projects I have been involved in from start to finish have given me the tools and experience to help you with various aspects of scientifici planification, such as:
+Good preparation can prevent many hurdles further down the road. Because I have been through the hurdles, I can assist during the early stages of your project to make sure the data collection phase goes as smoothly as possible. The diverse projects I have been involved in from start to finish have given me the tools and experience to help you with various aspects of scientific planification, such as:
 - litterature review
 - conception of experimental designs and sampling plans tailored to your research question
-- drafting of detailed field protocols
+- drafting of detailed field protocols 
 - construction and/or preparation of specialized field equipment (field cameras, Automated Recording Units, custom animal collars with various censors, artificial feeders...)
 
 <div class="clear"></div>
@@ -17,7 +17,11 @@ Good preparation can prevent many hurdles further down the road. Because I have 
 <img class="right-img" src="https://baptisteaverly.github.io/img/collar.JPG">
 
 **Data collection**  
-uioghiougoufg
+Tireless in the field, I enjoy working outdoors in all types of terrain and various meteorological conditions: the french Pyrenees moutains, the Kalahari desert or the canadian boreal forest are some examples of environments in which I have enthousiastically worked in the past. Since I am used to dealing with ecological datasets (see [Data work](https://baptisteaverly.github.io/Data%20work), I know the importance of carrefully collected data, and will carry out work in the field with high standards of rigor and precision. Here are some examples of what I can perform for your project:
+- installation and maintenance of specialized field equipment
+- ecological inventories of flora and/or fauna
+- behavioral observations
+- capture and handling of birds and small mammals, morphometric measurements 
 
 <div class="clear"></div>
 
