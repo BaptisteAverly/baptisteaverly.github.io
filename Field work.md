@@ -5,19 +5,22 @@
 
 <img class="left-img" src="https://baptisteaverly.github.io/img/DSC_1407.JPG" >
 
-**Field preparation:** blaballehoighhgr
+**Before the field**  
+blaballehoighhgr
 
 <div class="clear"></div>
 
 
 <img class="right-img" src="https://baptisteaverly.github.io/img/collar.JPG">
 
-**Data collection :** uioghiougoufg
+**Data collection**  
+uioghiougoufg
 
 <div class="clear"></div>
 
 <img class="left-img" src="https://baptisteaverly.github.io/img/bats.jpg">
 
-**Outreach :** 
+**Outreach**  
+lhoihohô
 
 <div class="clear"></div>
