@@ -1,6 +1,7 @@
 
   
-## What I can do behind a screen  
+## What I can do behind a screen
+---
 <br>
 
 <img class="left-img" src="https://baptisteaverly.github.io/img/IMG_12882.JPG" >
@@ -24,10 +25,10 @@ The picture on the right shows a screenshot of an interactive network applicatio
 
 <div class="clear"></div>
 <br>
-  
+
 <img class="left-img" src="https://baptisteaverly.github.io/img/Figure_1.png">
 
-**Data analysis:**
+**Data analysis:**  
 Through my academic curriculum, I have acquired a solid background in statistics, and can provide support with the qualitative or quantitative analysis of your data, including:
 - descriptive statistics 
 - inferantial statistics (Generalised Linear Models, parametric and non-parametric tests...)
