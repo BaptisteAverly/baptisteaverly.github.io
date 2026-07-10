@@ -1,7 +1,6 @@
 
 ## What I can do in the field
-
-
+--  
 
 <img class="left-img" src="https://baptisteaverly.github.io/img/DSC_1407.JPG" >
 
