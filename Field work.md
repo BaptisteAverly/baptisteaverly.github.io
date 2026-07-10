@@ -17,7 +17,7 @@ Good preparation can prevent many hurdles further down the road. Because I have 
 <img class="right-img" src="https://baptisteaverly.github.io/img/collar.JPG">
 
 **Data collection**  
-Tireless in the field, I enjoy working outdoors in all types of terrain and various meteorological conditions: the french Pyrenees moutains, the Kalahari desert or the canadian boreal forest are some examples of environments in which I have enthousiastically worked in the past. Since I am used to dealing with ecological datasets (see [Data work](https://baptisteaverly.github.io/Data%20work), I know the importance of carrefully collected data, and will carry out work in the field with high standards of rigor and precision. Here are some examples of what I can perform for your project:
+Tireless in the field, I enjoy working outdoors in all types of terrain and various meteorological conditions: the french Pyrenees moutains, the Kalahari desert or the canadian boreal forest are some examples of environments in which I have enthousiastically worked in the past. Since I am used to dealing with ecological datasets (see [Data work](https://baptisteaverly.github.io/Data%20work)), I know the importance of carrefully collected data, and will carry out work in the field with high standards of rigor and precision. Here are some examples of what I can perform for your project:
 - installation and maintenance of specialized field equipment
 - ecological inventories of flora and/or fauna
 - behavioral observations
@@ -28,6 +28,6 @@ Tireless in the field, I enjoy working outdoors in all types of terrain and vari
 <img class="left-img" src="https://baptisteaverly.github.io/img/bats.jpg">
 
 **Outreach**  
-I am a firm believer in the importance of knowledge sharing and transmission for the benefit of all parties involved: across disciplines, across levels of expertise, across profesion types, and across ages. With experience in outreach and popular education, I can help to get the outcome of your project across to a variety of public. Depending on your goal, this can be through the creation of educational content such as games or flyers, the development of interactive online tools based on your results (see [Data work](https://baptisteaverly.github.io/Data%20work), or the organisation and conduct outreach events (conferences, information booths...).
+I am a firm believer in the importance of knowledge sharing and transmission for the benefit of all parties involved: across disciplines, across levels of expertise, across profesion types, and across ages. With experience in outreach and popular education, I can help to get the outcome of your project across to a variety of public. Depending on your goal, this can be through the creation of educational content such as games or flyers, the development of interactive online tools based on your results (see [Data work](https://baptisteaverly.github.io/Data%20work)), or the organisation and conduct outreach events (conferences, information booths...).
 
 <div class="clear"></div>
