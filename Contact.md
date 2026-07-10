@@ -1,6 +1,8 @@
-## Contact information
 
 <img style="padding: 0 15px; float: right;" src="https://baptisteaverly.github.io/img/cos-35_small.jpg"  align="right" width="800">
+
+## Contact information
+---
 
 ### Email: 
 baptiste.averly [at] gmail.com
