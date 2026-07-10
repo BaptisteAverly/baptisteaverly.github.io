@@ -18,7 +18,7 @@ My typical data handling pipeline uses **version-control softwares** (git) and *
 **Interactive interfaces**  
 Once the data is clean and organized, it can be very helpful to interact with it in a direct, visual way, but this often requires many hours writing code. Using **R Shiny**, I can take care of the tedious programatic part to deliver easy-to-use interactive interfaces for the visualization of your data. Because Shiny is a very powerful and flexible tool, the form and purpose of such applications can really be adapted to the format of your data and the goals of your project, ranging from simple interactive graphs to complex multi-pages tools with maps, networks, videos, and so on. Typical uses can include:
 - providing a user-friendly **interface to access large databases** without having to use query languages
-- facilitating **qualitative exploration of data** prior to analysis by presenting it in an dynamic, visual way
+- facilitating **qualitative exploration of data** prior to analysis by laying  it out in an dynamic, visual way
 - streamlining the run of **simulations or models** for non-experienced users
 - **showcasing you results** to a specialized or general audience through an engaging and interactive tool
 
