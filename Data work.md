@@ -36,6 +36,6 @@ Through my academic curriculum, I have acquired a solid background in statistics
 - spatial analyses using GIS softwares and/or specialized R packages
 - other specialized statistical methods adapted to your research (Network-Based Diffusion Analysis, Fuzzy Cognitive Mapping...)
 
-The picture on the left is taken from my first-author paper about paterns of vocal and spatial influence in wild meerkat groups, accessible [**here**](https://www.nature.com/articles/s41598-022-17259-z)
+The picture on the left is taken from my first-author paper about paterns of vocal and spatial influence in wild meerkat groups, accessible [**here**](https://www.nature.com/articles/s41598-022-17259-z).
 
 <div class="clear"></div>
