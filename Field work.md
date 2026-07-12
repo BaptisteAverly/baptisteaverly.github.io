@@ -12,7 +12,7 @@ Good preparation can prevent many hurdles further down the road. Because I have 
 - construction and/or preparation of specialized field equipment (field cameras, Automated Recording Units, custom animal collars with various censors, artificial feeders...)
 
 <div class="clear"></div>
-
+<br>
 
 <img class="right-img" src="https://baptisteaverly.github.io/img/collar.JPG">
 
@@ -24,6 +24,7 @@ Tireless in the field, I enjoy working outdoors in all types of terrain and vari
 - capture and handling of birds and small mammals, morphometric measurements 
 
 <div class="clear"></div>
+<br>
 
 <img class="left-img" src="https://baptisteaverly.github.io/img/bats.jpg">
 
