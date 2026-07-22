@@ -1,12 +1,18 @@
 <p>
   <span style="float: left">
-    <a href="{{site.baseurl}}/">About</a> |
-    <a href="{{site.baseurl}}/Field work">Field work</a> |
-    <a href="{{site.baseurl}}/Data work">Data work</a> |
-    <a href="{{site.baseurl}}/Contact">Contact</a> 
+    <a href="{{site.baseurl}}/en/">About</a> |
+    <a href="{{site.baseurl}}/en/Field work">Field work</a> |
+    <a href="{{site.baseurl}}/en/Data work">Data work</a> |
+    <a href="{{site.baseurl}}/en/Contact">Contact</a> 
   </span>
   <span style="float: right">
-      <a href="{{site.baseurl}}/">Fr</a> |
-      <a href="{{site.baseurl}}/Field work">En</a>
+    {% if page.lang == "en" %}
+      <strong>EN</strong> |
+      <a href="{{ page.url | replace_first: '/en/', '/fr/' }}">FR</a>
+    {% else %}
+      <a href="{{ page.url | replace_first: '/fr/', '/en/' }}">EN</a> |
+      <strong>FR</strong>
+    {% endif %}
   </span>
 </p>
+
