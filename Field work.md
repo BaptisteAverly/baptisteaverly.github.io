@@ -33,6 +33,6 @@ Tireless in the field, I enjoy working outdoors in all types of terrain and vari
 <img class="left-img" src="https://baptisteaverly.github.io/img/bats.jpg">
 
 **Outreach**  
-I am a firm believer in the importance of knowledge sharing and transmission for the benefit of all parties involved: across disciplines, across levels of expertise, across profession types, and across ages. With experience in outreach and popular education, I can help to get the outcome of your project across to a variety of publics. Depending on your goal, this can be through the creation of educational content such as games or flyers, the development of interactive online tools based on your results (see [Data work](https://baptisteaverly.github.io/Data%20work)), or the organization and conduct of outreach events (conferences, information booths...).
+I am a firm believer in the importance of knowledge sharing and transmission for the benefit of all parties involved: across disciplines, across levels of expertise, across profession types, and across ages. With experience in outreach and popular education, I can help to get the outcome of your project across to a variety of publics. Depending on your goal, this can be through the creation of educational content such as games or informational booklets, the development of interactive online tools based on your results (see [Data work](https://baptisteaverly.github.io/Data%20work)), or the organization and conduct of outreach events (conferences, information booths...).
 
 <div class="clear"></div>
