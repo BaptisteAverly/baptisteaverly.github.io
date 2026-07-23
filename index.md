@@ -1,4 +1,4 @@
-## Who am I ?
+## Who am Iii?
 ---  
 
 [French CV](/docs/CV.pdf) - [ResearchGate page](https://www.researchgate.net/scientific-contributions/Baptiste-Averly-2210083323)
