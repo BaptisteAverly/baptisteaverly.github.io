@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: Baptiste Averly
-description: Independant field ecologist and data analyst
+description_en: Independant field ecologist and data analyst
+description_fr: Ecologue de terrain et analyste de données indépendant
 baseurl: /
