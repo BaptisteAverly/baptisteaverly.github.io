@@ -8,9 +8,9 @@
   <span style="float: right">
     {% if page.lang == "en" %}
       <strong>EN</strong> |
-      <a href="{{ '/fr' | append: page.url | relative_url }}">FR</a>
+      <a href="{{site.baseurl}}/fr/index">FR</a>
     {% else %}
-      <a href="{{ page.url | replace_first: '/fr', '' | relative_url }}">EN</a> |
+      <a href="{{site.baseurl}}/">EN</a> |
       <strong>FR</strong>
     {% endif %}
   </span>
