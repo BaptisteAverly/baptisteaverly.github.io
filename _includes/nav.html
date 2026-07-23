@@ -1,12 +1,22 @@
 <p>
-  <span style="float: left">
-    <a href="{{site.baseurl}}/">About</a> |
-    <a href="{{site.baseurl}}/Field work">Field work</a> |
-    <a href="{{site.baseurl}}/Data work">Data work</a> |
-    <a href="{{site.baseurl}}/Contact">Contact</a> 
-  </span>
 
-    <span style="float: right">
+  {% if page.lang == "en" %}
+    <span style="float: left">
+      <a href="{{site.baseurl}}/">About</a> |
+      <a href="{{site.baseurl}}/Field work">Field work</a> |
+      <a href="{{site.baseurl}}/Data work">Data work</a> |
+      <a href="{{site.baseurl}}/Contact">Contact</a> 
+    </span>
+  {% else %}
+    <span style="float: left">
+      <a href="{{site.baseurl}}/fr/index">A propos</a> |
+      <a href="{{site.baseurl}}/fr/Field work">Travail de terrain</a> |
+      <a href="{{site.baseurl}}/fr/Data work">Travail de données</a> |
+      <a href="{{site.baseurl}}/fr/Contact">Contact</a> 
+    </span>
+  {% endif %}
+  
+  <span style="float: right">
     {% if page.lang == "en" %}
       <strong>EN</strong> |
       <a href="{{site.baseurl}}/fr/index">FR</a>
