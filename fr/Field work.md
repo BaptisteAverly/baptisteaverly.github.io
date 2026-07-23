@@ -1,5 +1,6 @@
 ---
 lang: fr
+description: Ecologue de terrain et analyste de données indépendant
 ---
 
 ## Ce que je peux faire sur le terrain
