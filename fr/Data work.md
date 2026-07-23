@@ -9,37 +9,39 @@ description: Ecologue de terrain et analyste de données indépendant
 
 <img class="left-img" src="https://baptisteaverly.github.io/img/IMG_12882.JPG" >
 
-**Data processing and management**  
-Ecological data often come in many different shapes and formats, and datasets can quickly grow very large, especially for projects spanning multiple years. Making sure such data are staying clean, organized, and easily accessible can be quite a daunting, error-prone, and time-consuming task, often resulting in stress and frustration when the time comes for analysis. Because I have had many experiences managing copious datasets from collection to analysis and already committed all the common mistakes, I can take care of your data so you don't have to go through the same trouble.  
+**Traitement et gestion de données**
+Les données issues de travaux en écologie se présentent souvent sous des formes et formats très variés, et le jeux de données peuvent rapidement atteindre des tailles conséquentes, particulierement dans le cadre de projets s'étalant sur plusieurs années. Veiller à ce que de telles données restent propres, organisées, et facile d'accès peut s'avérer une tâche difficile, source d'erreurs et chronophage, resultant souvent sur du stress et de la frustration au moment des analyses. Fort de mon expérience dans la gestion de vastes ensembles de données, de leur collecte à leur analyse, et ayant déjà commis toutes les erreurs courantes, je peux prendre en charge vos données afin que vous n'ayez pas à rencontrer les mêmes difficultés. 
 
-My typical data handling pipeline uses version-control softwares (Git) and R scripts to make sure that the whole process is completely reproducible, transparent, and reversible. I can also create relational databases from the ground up or develop interactive interfaces to facilitate access to existing databases (see below). Used to dealing with a variety of biological data types (spatial, environmental, behavioral, acoustic, visual...), I can adapt to your own needs and requirements and am able to assist at any stage of the project, from coming up with an organizational plan prior to data collection to helping make the data analysis-ready once it already exists.
+Mon processus habituel de traitement des données s'appuie sur des logiciels de contrôle de version (Git) et des scripts R afin de garantir que l'ensemble du processus soit entièrement reproductible, transparent et réversible. Je suis également capable de créer des bases de données relationnelles à partir de zéro ou de développer des interfaces interactives pour faciliter l'accès aux bases de données existantes (voir ci-dessous). Habitué à traiter divers types de données biologiques (spatiales, environnementales, comportementales, acoustiques, visuelles…), je peux m'adapter à vos besoins et exigences spécifiques et suis en mesure de vous accompagner à n'importe quelle étape du projet, de l'élaboration d'un plan d'organisation préalable à la collecte des données, à la préparation de celles-ci pour l'analyse une fois qu'elles sont disponibles.
+
 <div class="clear"></div>
- <br>
+
+<br>
 
 <img class="right-img" src="https://baptisteaverly.github.io/img/network_lowRes.png" >
 
-**Interactive interfaces**  
-Once the data is clean and organized, it can be very helpful to interact with it in a direct, visual way, but this often requires many hours writing code. Using **R Shiny**, I can take care of the tedious programmatic part to deliver easy-to-use interactive interfaces for the visualization of your data. Because Shiny is a very powerful and flexible tool, the form and purpose of such applications can really be adapted to the format of your data and the goals of your project, ranging from simple interactive graphs to complex multi-page tools with maps, networks, videos, and so on. Typical uses can include:
-- providing a user-friendly **interface to access large databases** without having to use query languages
-- facilitating **qualitative exploration of data** prior to analysis by laying  it out in an dynamic, visual way
-- streamlining the run of **simulations or models** for non-experienced users
-- **showcasing your results** to a specialized or general audience through an engaging and interactive tool
+**Interfaces interactives**
+Une fois les données nettoyées et organisées, il peut s’avérer très utile d’interagir avec elles de manière directe et visuelle, mais cela nécessite souvent de nombreuses heures de programmation. Grâce à **R Shiny**, je peux me charger de la fastidieuse partie programmatique afin de vous fournir des interfaces interactives faciles à utiliser pour la visualisation de vos données. Shiny étant un outil très puissant et flexible, la forme et le but de ces applications peuvent être adaptés au format de vos données et aux objectifs de votre projet, allant de simples graphiques interactifs à des outils complexes sur plusieurs pages intégrant des cartes, des réseaux, des vidéos, etc. Parmi les utilisations courantes, on peut citer :
+- fournir une **interface pour accéder facilement à de grandes bases de données** sans avoir à utiliser de langages de requête
+- faciliter l’**exploration qualitative des données** avant leur analyse en les présentant de manière dynamique et visuelle
+- simplifier l’exécution de **simulations ou de modèles** pour les utilisateurs novices
+- **présenter vos résultats** à un public spécialisé ou non grâce à un outil engagean et interactif
 
-[**Here**](https://www.eoliennesenmer.fr/ressources/etudes-techniques/appli-bird-dynamic) is an example of a Shiny application I co-developed for the French Department of Environment.  
-The picture on the right is a screenshot of an interactive-network application I developed for *Bureau et al. Inuvialuit Knowledge of Peary caribou habitat through storytelling, fuzzy cognitive mapping, and an interactive network (In review).* (not accessible for confidentiality issues).
+[**Ici**](https://www.eoliennesenmer.fr/ressources/etudes-techniques/appli-bird-dynamic) vous pouvez voir un exemple d'application Shiny que j'ai co-développé pour le Ministère française de la transition écologique.
+L'image à droite est une capture d'écran d'un réseau intéractif que j'ai développé pour *Bureau et al. Inuvialuit Knowledge of Peary caribou habitat through storytelling, fuzzy cognitive mapping, and an interactive network (In review).* (non accessible pour des raisons de confidentialités).
 
 <div class="clear"></div>
 <br>
 
 <img class="left-img" src="https://baptisteaverly.github.io/img/Figure_1.png">
 
-**Data analysis**  
-Through my academic curriculum, I have acquired a solid background in statistics and can provide support with the qualitative or quantitative analysis of your data, including:
-- descriptive statistics 
-- inferential statistics (Generalized Linear Models, parametric and non-parametric tests...)
-- spatial analyses using GIS softwares and/or specialized R packages
-- other specialized statistical methods adapted to your research (Network-Based Diffusion Analysis, Fuzzy Cognitive Mapping...)
+**Analyse de données**  
+Au cours de mon cursus academique, j'ai pu acquérir de solides connaissances en statistiques, et je peux apporter mon aide pour l'analyse qualitative ou quantitative de vos données, notemment:
+- analyses descriptives
+- statistiques inférentielles (modèles linéaires généralisés, tests paramétriques et non-paramétriques...)
+- analyses spatiales à l'aide de logiciels de SIG et/ou de packages R spécialisés
+- autres méthodes statistiques spécialisées adapté à vos travaux de recherche (Network-Based Diffusion Analysis, Fuzzy Cognitive Mapping...)
 
-The picture on the left is taken from my first-author paper about patterns of vocal and spatial influence in wild meerkat groups, accessible [**here**](https://www.nature.com/articles/s41598-022-17259-z).
+L'image à gauche provient de mon article de recherche écrit en tant que premier auteur, étudiant les patterns d'influence spatiales et vocales chez des groupes de suricates sauvages, accessible  [**ici**](https://www.nature.com/articles/s41598-022-17259-z).
 
 <div class="clear"></div>
