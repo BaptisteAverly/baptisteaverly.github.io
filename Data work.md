@@ -1,5 +1,6 @@
 ---
 lang: en
+description: Independant field ecologist and data analyst
 ---
   
 ## What I can do behind a screen
