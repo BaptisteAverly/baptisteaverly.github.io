@@ -27,7 +27,7 @@ Une fois les données nettoyées et organisées, il peut s’avérer très utile
 - simplifier l’exécution de **simulations ou de modèles** pour les utilisateurs novices
 - **présenter vos résultats** à un public spécialisé ou non grâce à un outil engagean et interactif
 
-[**Ici**](https://www.eoliennesenmer.fr/ressources/etudes-techniques/appli-bird-dynamic) vous pouvez voir un exemple d'application Shiny que j'ai co-développé pour le Ministère française de la transition écologique.
+[**Ici**](https://www.eoliennesenmer.fr/ressources/etudes-techniques/appli-bird-dynamic) vous pouvez voir un exemple d'application Shiny que j'ai co-développé pour le Ministère français de la transition écologique.
 L'image à droite est une capture d'écran d'un réseau intéractif que j'ai développé pour *Bureau et al. Inuvialuit Knowledge of Peary caribou habitat through storytelling, fuzzy cognitive mapping, and an interactive network (In review).* (non accessible pour des raisons de confidentialités).
 
 <div class="clear"></div>
