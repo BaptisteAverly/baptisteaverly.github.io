@@ -21,12 +21,13 @@ My typical data handling pipeline uses version-control softwares (Git) and R scr
 **Interactive interfaces**  
 Once the data is clean and organized, it can be very helpful to interact with it in a direct, visual way, but this often requires many hours writing code. Using **R Shiny**, I can take care of the tedious programmatic part to deliver easy-to-use interactive interfaces for the visualization of your data. Because Shiny is a very powerful and flexible tool, the form and purpose of such applications can really be adapted to the format of your data and the goals of your project, ranging from simple interactive graphs to complex multi-page tools with maps, networks, videos, and so on. Typical uses can include:
 - providing a user-friendly **interface to access large databases** without having to use query languages
-- facilitating **qualitative exploration of data** prior to analysis by laying  it out in an dynamic, visual way
+- facilitating **qualitative exploration of data** prior to analysis by laying it out in a dynamic, visual way
 - streamlining the run of **simulations or models** for non-experienced users
 - **showcasing your results** to a specialized or general audience through an engaging and interactive tool
 
-[**Here**](https://www.eoliennesenmer.fr/ressources/etudes-techniques/appli-bird-dynamic) is an example of a Shiny application I co-developed for the French Department of Environment.  
 The picture on the right is a screenshot of an interactive-network application I developed for *Bureau et al. Inuvialuit Knowledge of Peary caribou habitat through storytelling, fuzzy cognitive mapping, and an interactive network (In review).* (not accessible for confidentiality issues).
+[**This**](https://www.eoliennesenmer.fr/ressources/etudes-techniques/appli-bird-dynamic) is an example of a Shiny application I co-developed for the French Department of Environment.  
+[**This**](https://baptisteaverly.shinyapps.io/Demo_ours/) is a Shiny application showing brown bear monitoring data in the french Pyrenees, developed based on public data from the Office Français de la Biodiversité. 
 
 <div class="clear"></div>
 <br>
