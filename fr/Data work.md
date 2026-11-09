@@ -27,8 +27,9 @@ Une fois les données nettoyées et organisées, il peut s’avérer très utile
 - simplifier l’exécution de **simulations ou de modèles** pour les utilisateurs novices
 - **présenter vos résultats** à un public spécialisé ou non grâce à un outil engagean et interactif
 
-[**Ici**](https://www.eoliennesenmer.fr/ressources/etudes-techniques/appli-bird-dynamic) vous pouvez voir un exemple d'application Shiny que j'ai co-développé pour le Ministère français de la transition écologique.
 L'image à droite est une capture d'écran d'un réseau intéractif que j'ai développé pour *Bureau et al. Inuvialuit Knowledge of Peary caribou habitat through storytelling, fuzzy cognitive mapping, and an interactive network (In review).* (non accessible pour des raisons de confidentialités).
+[**Ceci**](https://www.eoliennesenmer.fr/ressources/etudes-techniques/appli-bird-dynamic) est un exemple d'application Shiny que j'ai co-développé pour le Ministère français de la transition écologique.
+[**Ceci**](https://baptisteaverly.shinyapps.io/Demo_ours/) est une application Shiny présentant les données de suivi de l'ours brun dans les Pyrénées, que j'ai développée à partir des données publics issues des rapports de l'Office Français de la Biodiversité. 
 
 <div class="clear"></div>
 <br>
